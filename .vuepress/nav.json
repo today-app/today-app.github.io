@@ -1,0 +1,5 @@
+[
+  { "text": "Home", "link": "/" },
+  { "text": "About", "link": "/about/" },
+  { "text": "GitHub", "link": "https://github.com/today-app" }
+]
